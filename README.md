@@ -9,3 +9,4 @@ We invite you to contribute, share your experiences, and help build a comprehens
 ## Pages
 
 1. [Plugin Formats](./PluginFormats.md)
+2. [DAWs](./DAWs.md)
